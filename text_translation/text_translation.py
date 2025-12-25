@@ -1,0 +1,3 @@
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+
+MODEL_PATH="~/Python/Translation_of_books_from_English_to_Russian_with_text_recognition/mbart_model"
